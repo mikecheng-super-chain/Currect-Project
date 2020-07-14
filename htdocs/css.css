@@ -1,0 +1,153 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  line-height: 1.5;
+  font-size: 16px;
+  font-family: Monaco;
+}
+
+div.g-recaptcha {
+  margin: 0 auto;
+  width: 304px;
+}
+
+body h1 {
+  padding: 10px 0;
+  text-align: center;
+}
+
+form input {
+  margin: 10px;
+}
+
+form div {
+  margin: 20px 0 0;
+}
+
+
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  max-width: 600px;
+  height: 355px;
+  border: 1px solid #9C9C9C;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+
+.sidenav {
+  width: 130px;
+  position: absolute;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: rgb(15, 15, 15);
+  display: block;
+}
+
+#index-form {
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin: 5rem auto 5rem;
+  padding: 0 50px 50px;
+  min-width: 300px;
+  width: 50%;
+  text-align: center;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+#reg-form {
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin: 2rem auto 5;
+  min-width: 300px;
+  width: 50%;
+  padding: 0 50px 50px;
+  text-align: center;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+#forgetPassword-form {
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin: 5rem auto 5;
+  min-width: 300px;
+  width: 50%;
+  padding: 0 50px 50px;
+  text-align: center;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+#createAccount-form {
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin: 12rem auto 0;
+  min-width: 300px;
+  width: 50%;
+  padding: 0 50px 50px;
+  text-align: center;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+#changePassword-form {
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin: 5rem auto 0;
+  min-width: 300px;
+  width: 50%;
+  padding: 0 50px 50px;
+  text-align: center;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+#personalInfo-form {
+  border: solid gray 1px;
+  border-radius: 5px;
+  margin: 5rem auto 5rem;
+  min-width: 300px;
+  width: 50%;
+  padding: 0 50px 50px;
+  text-align: center;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+
+#header {
+  min-height: 100px;
+  color: var(--body-text);
+  text-align: center;
+}
+
+#header h2 {
+  font-family: Apple Chancery;
+  font-size: 7rem;
+  padding-bottom: 4rem;
+  text-align: center;
+}
+
+#header h3 {
+  font-family: Apple Chancery;
+  font-size: 4rem;
+  padding-bottom: 4rem;
+  text-align: center;
+}
